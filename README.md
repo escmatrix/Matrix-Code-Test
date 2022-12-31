@@ -22,7 +22,7 @@ In the end, I made a searching algorithm that essentially works like this -
 1. Find open squares around the character
 2. Add these specific locations to the "togo" list
 3. Iterate through the "togo" list
-  i. BFS to find the path from the current location to the "togo" location
+   1. BFS to find the path from the current location to the "togo" location
 4. Go by the path with the shortest length - Greedy
 5. Repeat from Step 1 until end found
 
