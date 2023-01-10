@@ -1,5 +1,5 @@
-# Maze Code Test
-My micro-mouse maze code test solution.
+# Matrix Code Test
+My micro-mouse matrix code test solution.
 
 ## Goals
 My goals for my solution included - 
